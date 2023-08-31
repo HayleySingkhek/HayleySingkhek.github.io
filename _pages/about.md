@@ -1,18 +1,15 @@
 ---
 
-title: "About David Florian"
+title: "About Hayley Singkhek"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+As a multi-faceted student, Hayley has experience in a myriad of fields including Molecular Cell and Biology, Chemical Engineering, and  Digital Fabrication (3D Printing).
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Chemical Engineering
 
 ## Technical Skills
 
