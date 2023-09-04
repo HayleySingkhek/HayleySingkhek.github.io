@@ -13,9 +13,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Hayley Singkhek"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Third-year chemical engineering student"
 name                     : &name "Hayley Singkhek" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "An inclusive recording of projects and skills for the usage of future employers. "
 url                      : https://hayleysingkhek.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -117,7 +117,7 @@ footer:
       url: "https://github.com/DrD-Flo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "/assets/img/Hayley Headshot Cropped.jpg"
 
 
 # Reading Files
