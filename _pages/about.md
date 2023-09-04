@@ -10,19 +10,27 @@ As a multi-faceted student, Hayley has experience in multiple fields, including 
 
 * Vanderbilt University
   * BS Chemical Engineering
+ 
+    
+## Work Experience
+
+* Molecular Cell Biology Research Lab Assistant
 
 ## Technical Skills
 
 Hayley has substantial experience in experimental lab environments. Additionally, Hayley is also increasing her repertoire in fabrication machines. A current list of skills and abilities she is competent in are the following:
 
-* Microscopy
-* Media Preparation
-* DNA & Protein Extractions
-* DNA Electrophoresis 
-* Aspen
-* MatLab
-* Python
-* Fused Filament Fabrication (FFF)
+* Experimental Lab Skills
+** Microscopy
+** Media Preparation
+** DNA & Protein Extractions
+** DNA Electrophoresis
+* Softwares 
+** Aspen
+** MatLab
+** Python
+* Digital Fabrication
+** Fused Filament Fabrication (FFF)
 
 
 
