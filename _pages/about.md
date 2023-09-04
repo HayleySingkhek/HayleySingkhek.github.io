@@ -26,4 +26,4 @@ Hayley has substantial experience in experimental lab environments. Additionally
 
 
 
-<img src="/assets/img/Hayley Headshot.jpg" alt="Hayley Singkhek" style="width:200px;"/>
+<img src="/assets/img/Hayley Headshot Cropped.jpg" alt="Hayley Singkhek" style="width:200px;"/>
