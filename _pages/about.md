@@ -21,16 +21,16 @@ As a multi-faceted student, Hayley has experience in multiple fields, including 
 Hayley has substantial experience in experimental lab environments. Additionally, Hayley is also increasing her repertoire in fabrication machines. A current list of skills and abilities she is competent in are the following:
 
 * Experimental Lab Skills
-  ** Microscopy
-  ** Media Preparation
-  ** DNA & Protein Extractions
-  ** DNA Electrophoresis
+  * Microscopy
+  * Media Preparation
+  * DNA & Protein Extractions
+  * DNA Electrophoresis
 * Softwares 
-  ** Aspen
-  ** MatLab
-  ** Python
+  * Aspen
+  * MatLab
+  * Python
 * Digital Fabrication
-  ** Fused Filament Fabrication (FFF)
+  * Fused Filament Fabrication (FFF)
 
 
 
