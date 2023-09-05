@@ -15,4 +15,6 @@ header:
 
 # Operation 
   * To operate the pump, fill the syringe with the desired liquid after plugging the machine in and change the setSpeed variable in Arduino, resulting in the desired volumetric flow rate. Use the button to start the pump and the LED to visually confirm the status of the pump. When the desired amount of liquid has been dispensed, or when the syringe is empty, the pump will automatically stop running. 
-{% include gallery caption="Large Format 3D Printer Gallery" %}
+
+
+{% include gallery caption="DIY Syringe Pump" %}
