@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Hayley Singkhek"
 title_separator          : "-"
-subtitle                 : "Third-year chemical engineering student"
+subtitle                 : "Third-year Chemical Engineering student"
 name                     : &name "Hayley Singkhek" # &name is a YAML anchor which can be *referenced later
 description              : &description "An inclusive recording of projects and skills for the usage of future employers. "
 url                      : https://hayleysingkhek.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "assets/img/Hayley Headshot Cropped.jpg"
   bio              : "Third-year Chemical Engineering Vanderbilt student seeking research and internship roles."
   location         : "Nashville, TN"
   links:
