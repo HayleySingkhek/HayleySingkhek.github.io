@@ -16,6 +16,9 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e33a7298cdc6937a6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Arduino Code
+HayleySingkhek.github.io/assets/img/Pump_Code_GH.ino
+
 | Off the Shelf Items Used | 
 | -------- | 
 | 1 x 250 mm Lead Screw w/ 2 mm pitch and 2 mm lead | 
