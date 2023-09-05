@@ -11,13 +11,23 @@ gallery:
 
 
 # Features
-  * DIY syringe pump that can be programmed to a specific volumetric flow rate to fit the needs of the user. This pump is compatible with syringe sizes from 5 mL to 20 mL. By changing one variable in the code, the pump will be able to adjust the rate at which liquid is pushed out.
+  * DIY syringe pump that can be programmed to a specific volumetric flow rate to fit the needs of the user. By changing one variable in the code, the pump will be able to adjust the rate at which liquid is pushed out.
+  * This pump is compatible with syringe sizes from 5 mL to 20 mL without any additional assembly
+  * Flow rates available from (0.012 - 20) mL/min 
+  * High accuracy of flow
+  * Latching button to start and stop the pump
+  * A switch to stop pump once the limit is reached
+  * Flow rates can be customized by changing one global variable
+  * Works with integer and decimal flow rates
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e33a7298cdc6937a6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
 # Arduino Code
 HayleySingkhek.github.io/assets/img/Pump_Code_GH.ino
+
+
 
 | Off the Shelf Items Used | 
 | -------- | 
