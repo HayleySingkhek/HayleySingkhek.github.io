@@ -9,8 +9,10 @@ title: "About Hayley Singkhek"
 As a multi-faceted student, Hayley has experience in multiple fields, including Molecular Cell and Biology, Chemical Engineering, and  Digital Fabrication (3D Printing).
 
 * Vanderbilt University
-  * BS Chemical Engineering
- 
+  * BS Chemical Engineering 
+  * Minor in Chemistry
+  * Minor in Digital Fabrication
+  * Expected to graduate in May 2025
     
 ## Work Experience
 
