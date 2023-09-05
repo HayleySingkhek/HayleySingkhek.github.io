@@ -7,8 +7,6 @@ header:
   teaser: /assets/img/Render of Pump.png
 gallery:
   - image_path: assets/img/real life pump.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
    
 ---
 
