@@ -5,8 +5,6 @@ header:
   image: assets/img/Render of Pump.png
   teaser: assets/img/Render of Pump.png
   - image_path: assets/img/real life pump.png
-  
-   
 ---
 
 # Features
