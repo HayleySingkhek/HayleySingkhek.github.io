@@ -2,12 +2,10 @@
 title: "Large Format 3D Printer"
 excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/Render of Pump.png
+  teaser: /assets/img/real life pump.png
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: /assets/img/real life pump.png
    
 ---
 
@@ -17,6 +15,31 @@ gallery:
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e33a7298cdc6937a6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+| Off the Shelf Items Used | 
+| -------- | 
+| 1 x 250 mm Lead Screw w/ 2 mm pitch and 2 mm lead | 
+| 1 x 1/4" x 8 mm Flexible Coupling | 
+| 2 x 200 mm Linear Rod with 8 mm diameter |
+| 2 x LM8UU Linear Bearing for 8 mm diameter rod |
+| 1 x 2040 Aluminum Extrusion 1' Length |
+| 1 x Nema 17 Stepper Motor |
+| 1 x Mean Well AC-DC Power Supply Quad Output 5V 12V 24V 4 Amp |
+| 1 x Arduino Uno |
+| 1 x A4988 Stepper Driver |
+| 1 x Small Breadboard |
+| 1 x Panel Mount Latching Push Buttons |
+| 1 x Line Switch |
+| 1 x RGB Common Cathode LED |
+
+
+| 3D Printed Parts | 
+| -------- | 
+| Enclosure with Lid |
+| Carriage and Mounting piece |
+| 2 x End Supports |
+| 1 x Motor Mounting Plate |
+
 
 # Operation 
   * To operate the pump, fill the syringe with the desired liquid after plugging the machine in and change the setSpeed variable in Arduino, resulting in the desired volumetric flow rate. Use the button to start the pump and the LED to visually confirm the status of the pump. When the desired amount of liquid has been dispensed, or when the syringe is empty, the pump will automatically stop running. 
