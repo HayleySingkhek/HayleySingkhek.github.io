@@ -2,8 +2,8 @@
 title: "DIY Syringe Pump"
 excerpt: "A programmable syringe pump with a range of 1 uL to 10 mL per minute."
 header:
-  image: assets/img/Render of Pump.png
-  teaser: assets/img/Render of Pump.png
+  image: /assets/img/Render of Pump.png
+  teaser: /assets/img/Render of Pump.png
   - image_path: assets/img/real life pump.png
 ---
 
