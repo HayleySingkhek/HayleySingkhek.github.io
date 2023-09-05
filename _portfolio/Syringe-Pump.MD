@@ -1,11 +1,17 @@
+
 ---
 title: "DIY Syringe Pump"
 excerpt: "A programmable syringe pump with a range of 1 uL to 10 mL per minute."
 header:
   image: /assets/img/Render of Pump.png
   teaser: /assets/img/Render of Pump.png
+gallery:
   - image_path: assets/img/real life pump.png
+  - image_path: assets/img/Slide-2.png
+  - image_path: assets/img/Slide-4.png
+   
 ---
+
 
 # Features
   * DIY syringe pump that can be programmed to a specific volumetric flow rate to fit the needs of the user. This pump is compatible with syringe sizes from 5 mL to 20 mL. By changing one variable in the code, the pump will be able to adjust the rate at which liquid is pushed out.
