@@ -2,7 +2,7 @@
 title: "DIY Bike Phone Holder"
 excerpt: "A DIY bike phone holder that attaches to a handlebar and allows for the phone to change orientation."
 header:
-  image: /assets/img/phone6.jpg
+  image: /assets/img/phone12.jpg
   teaser: /assets/img/phone3.jpg
 gallery:
   - image_path: /assets/img/phone10.jpg
