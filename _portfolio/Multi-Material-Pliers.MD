@@ -12,7 +12,7 @@ gallery:
 
 # Project Description
 For the project, the main idea emphasized is the idea of printing in place. This type of printing is very straightforward as it means that following the completion of printing, no further assembly is required. Combining this design aspect with dual extrusion filament printing broadens the possibilities for what can be printed. Utilizing these design choices allows for a final product to be made out of multiple materials for the duration of a single print. The result of this is the newfound freedom for beginner 3D printers, the freedom to create a single part that has the ability to bend while also having some sections be rigid. Applications of this unique and beneficial characteristic include creating parts that are collapsible and unfoldable, using a water-soluble material to create the supports for the part for easy removal, or parts that use a hinge-like structure for an otherwise rigid part. When printing a part that is able to collapse or fold, it is possible to print the part in its smallest form so that it fits on the build plate, but after the print is over, it is able to unfold to a size that is much larger than the build plate. This increases the amount of prints available to each printer, as a limiting factor to the size of printing is the size of one’s print bed. An example of this is a collapsible sword, similar to a kid's toy lightsaber that is able to extrude with the flick of a wrist. While the sword itself, when extended, will end up over 800 mm when it is printed at just 125 mm. 
-  ** [Collaspibie Sword][sword info]
+  * [Collaspibie Sword][sword info]
 
   [sword info]: https://www.thingiverse.com/thing:3639693
 
