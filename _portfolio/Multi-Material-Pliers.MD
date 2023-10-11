@@ -2,11 +2,13 @@
 title: "Multi-Material Pliers"
 excerpt: "Pliers designed for dual extrusion, a method of filament printing that allows more than one material to be made into a single print."
 header:
-  image: /assets/img/horizontal pic.jpeg
-  teaser: /assets/img/horizontal pic.jpeg
+  image: /assets/img/horizontal pic of new.jpg
+  teaser: /assets/img/horizontal pic of new.jpeg
 gallery:
   - image_path: /assets/img/vertical pic.jpeg
   - image_path: /assets/img/clinging between tpu and pla.jpeg
+  - image_path: /assets/img/standing pic.jpg
+  - image_path: /assets/img/flat laying vertical.jpg
 ---
 
 
@@ -37,7 +39,7 @@ When dealing with the functionality of the pliers, the clipper design was also a
 The print settings need to be specified for the materials being printed. In this case, PLA and 95TPU are being utilized in extruders 1 and 2 respectively. For each extruder, the temperature is set to the necessary temperature for its material, 210C for PLA and 225C for 95TPU. The bed temperature is not as simple as the extruder temperatures since both materials will need to adhere to it. For this print, the bed was set to 60C which allowed for both the rigid and elastic material to have good bed adhesion. 
 
 
-# Demonstration Video of Part in Use
-
+# Demonstration Video 
+  - image_path: /assets/img/Gif of using pliers.gif
 
 {% include gallery caption="Multi-Material Pliers" %}
