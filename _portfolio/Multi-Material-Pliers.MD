@@ -40,6 +40,6 @@ The print settings need to be specified for the materials being printed. In this
 
 
 # Demonstration Video 
-  - image_path: /assets/img/Gif of using pliers.gif
+  ![Pliers Demonstration](/assets/img/Gif of using pliers.gif)
 
 {% include gallery caption="Multi-Material Pliers" %}
