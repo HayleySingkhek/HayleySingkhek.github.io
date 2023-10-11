@@ -3,7 +3,7 @@ title: "Multi-Material Pliers"
 excerpt: "Pliers designed for dual extrusion, a method of filament printing that allows more than one material to be made into a single print."
 header:
   image: /assets/img/horizontal pic of new.jpg
-  teaser: /assets/img/horizontal pic of new.jpeg
+  teaser: /assets/img/flat laying vertical.jpg
 gallery:
   - image_path: /assets/img/vertical pic.jpeg
   - image_path: /assets/img/clinging between tpu and pla.jpeg
