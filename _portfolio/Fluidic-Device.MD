@@ -2,10 +2,10 @@
 title: "Microfluidic Device using SLA Printed Mold"
 excerpt: "To convey the high resolution SLA can achieve, a microfluidic device mold was designed, printed, and tested."
 header:
-  image: /assets/img/filled tubes and enpty device.jpg
-  teaser: /assets/img/inprocess up close picture.jpg
+  image: /assets/img/inprocess up close picture.jpg
+  teaser: /assets/img/filled tubes and enpty device.jpg
 gallery:
-  - image_path: /assets/img/as first fluid is going in .jpg
+  - image_path:/assets/img/as first fluid is going in .jpg
   - image_path:/assets/img/just the device.jpg
   - image_path:/assets/img/inprocess up close picture.jpg
 ---
