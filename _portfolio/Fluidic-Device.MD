@@ -3,11 +3,11 @@ title: "Microfluidic Device using SLA Printed Mold"
 excerpt: "To convey the high resolution SLA can achieve, a microfluidic device mold was designed, printed, and tested."
 header:
   image: /assets/img/inprocess up close picture.jpg
-  teaser: /assets/img/filled tubes and enpty device.jpg
+  teaser: /assets/img/horizontal for teaser.jpg
 gallery:
-  - image_path:/assets/img/as first fluid is going in .jpg
-  - image_path:/assets/img/just the device.jpg
-  - image_path:/assets/img/inprocess up close picture.jpg
+  - image_path: /assets/img/as first fluid is going in .jpg
+  - image_path: /assets/img/just the device.jpg
+  - image_path: /assets/img/inprocess up close picture.jpg
 ---
 
 
@@ -21,10 +21,5 @@ gallery:
 # From Resin Mold to Microfluidic Device
 
 # Cad Model
-
-
-# Operation 
-  * To operate the pump, fill the syringe with the desired liquid after plugging the machine in and change the setSpeed variable in Arduino, resulting in the desired volumetric flow rate. Use the button to start the pump and the LED to visually confirm the status of the pump. When the desired amount of liquid has been dispensed, or when the syringe is empty, the pump will automatically stop running. 
-
 
 {% include gallery caption="Microfluidic Device Testing" %}
