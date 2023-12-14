@@ -29,4 +29,6 @@ gallery:
 # Cad Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee9a7c778024dcbd7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Watch [HERE](https://youtu.be/P7nD8Pwwd_w) to see the test run!
+
 {% include gallery caption="Microfluidic Device Testing" %}
