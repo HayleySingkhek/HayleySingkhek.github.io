@@ -11,9 +11,16 @@ gallery:
 ---
 
 
-# Features
+# Description
   * DIY syringe pump that can be programmed to a specific volumetric flow rate to fit the needs of the user. By changing one variable in the code, the pump will be able to adjust the rate at which liquid is pushed out.
- 
+
+# Design 
+
+# Why use Vat Photopolymerization?
+
+# From Resin Mold to Microfluidic Device
+
+# Cad Model
 
 
 # Operation 
