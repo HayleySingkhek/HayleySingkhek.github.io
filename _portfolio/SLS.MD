@@ -12,7 +12,7 @@ gallery:
 
 
 # CAD Model
-
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e773e7188c0e66b96?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Discussion
 Powder printing is a form of 3D printing that uses powder polymers and a laser to melt the particles to form a durable product. This type of additive manufacturing is valuable for the support-free prints, strong mechanical properties of its prints, multiple parts being printed at once, and availability for efficiency to make this technology the quickest printing option. The printer has a bed with the powder at a lower heated temperature to which a laser scans across to make the powder melt into the desired geometry. After each scan, the bed moves down and another thin layer of powder will be spread for the laser to melt. This type of printing allows for materials with viable mechanical properties, e.g. chemical resistance, stiffness, strength, and high melting points. Overall, this type of manufacturing formulates dense parts with advantageous mechanical properties while needing no supports and being efficient with print placement in the build volume. 
